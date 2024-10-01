@@ -1,16 +1,25 @@
-## Hi there 👋
+# Great!你发现了一个有趣的Boy!😎
+> 设"/"=0,"="=1,"|"=2,那么这是我的Name:01111111111111222111112222211110111102.  
+> 密码:535\111\511\111\551(" \ "为一个回车)  
+> 图示如下: 
+>   /====     ===  ======
+    |           |     |
+    =====       |     |
+        |       |     |
+    ====/   ====/     |
+
+# 运行数据和更多:
+- 主进程:*啃八年级上册的课本*
+- 空闲进程:*听音乐*
+- 回归时间:*周末*短暂回归,*寒假*长期回归
+> ### 建议你先到[我的主页](https://sjt-2024.github.io/)详细了解我,再看我的仓库,食用效果更佳.
 
 <!--
-**sjt-2024/sjt-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    /====     ===  ======
+    |           |     |
+    =====       |     |
+        |       |     |
+    ====/   ====/     |
 -->
+
+
